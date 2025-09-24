@@ -28,5 +28,5 @@ Live Demo 👉 [logoipsum-six.vercel.app](https://logoipsum-six.vercel.app/)
 
 Clone the repo:
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/peyalhasan/Logoipsum.git
 cd <your-repo>
